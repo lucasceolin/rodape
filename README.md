@@ -2,7 +2,7 @@
 
 Protótipo: 
 
-<image src="https://uidesigndaily.com/posts/figma-footer-dark-mode-day-1521">
+![image](https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/1521/day_1521.png)
 
 <h2> Projeto de implementação de uma tela de rodapé. </h2>
 
